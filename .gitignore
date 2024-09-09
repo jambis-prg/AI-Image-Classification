@@ -1,0 +1,7 @@
+bin/
+images/
+include/
+lib/
+lib64
+models/
+pyvenv.cfg
